@@ -1,0 +1,5 @@
+# ignore all temporary files
+*~
+
+# ignore all font-awesome files
+assets/fontawesome/
